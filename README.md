@@ -5,7 +5,8 @@
 <a href="https://github.com/Samybassobert73/" target="_blank"><img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.instagram.com/samybss_/?hl=fr" target="_blank"><img src="https://img.shields.io/badge/instagram-%23F62192.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/facebook-%230861E4.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/discord-%239433FF.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+ <a href="mailto:bassobertsamy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-EMAIL-orange?style=for-the-badge"/></a>
+
  
   
 ### About me
@@ -28,7 +29,7 @@ I am a 20 young student developer living in France. Currently at EPITECH school 
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="64" height="64"/>
    <img width="7%" alt="mysql" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
     <img width="7%" alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-    <br />   
+   
 </p>
 
 

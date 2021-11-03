@@ -1,16 +1,15 @@
-### Hi there, I'm Samy Basso-Bert🚀. A student Developer from France !<img src="https://media.giphy.com/media/X7BZYMtnDWxES0oY4I/giphy.gif" width="25px"> ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Samy Basso-Bert🚀! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img  src="https://img.shields.io/badge/-Epitech-blue" /> <img  src="https://img.shields.io/badge/-Montpellier-orange" />
 <br/>
 
 ## About me
 
-- 🔭 I am a 20 young student developer living in France.
-- 🌱 Currently at EPITECH school in Montpellier
-- 👯 enjoy developping and designing website 
-- ⚡I PASSION started to developping 1 years ago
-- new things/technologies/tricks grinning.CREATIF
-- 🥅 2020 Goals: Contribute more to website projetc
--  Fun fact: I love to draw and play guitar / drums
+- 🌱 I am a 20 young student at EPITECH school in Montpellier
+- 💻 Enjoy developping and designing website 
+- ⚡ Passionated I started to developping 1 years ago
+- 🔍 I like to discover new things/technologies/tricks grinning.
+- ⚽ My 2020 Goals is to Contribute more to website projet
+
 
 ## Connect with me:
 
@@ -36,17 +35,24 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" width="26px" alt="wordpress" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg">
+<img align="left" width="26px" alt="bootstrap" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
+<img align="left" width="29px" alt="bootstrap" src="https://www.vectorlogo.zone/logos/php/php-icon.svg">
+<img align="left" width="26px" alt="bootstrap" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg">
+
 <br />
+
+
 
 ## Project and Stats:
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  [#1](https://github.com/Samybassobert73/Jobboard-Nodejs-React) Jobboard  
+  [#1](https://github.com/Samybassobert73/Jobboard-Nodejs-React)Jobboard  
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Samybassobert73)](https://github.com/Samybassobert73/github-readme-stats)
+  [![Les Stats GitHub de Samy](https://github-readme-stats.vercel.app/api?username=Samybassobert73)](https://github.com/Samybassobert73/github-readme-stats)
 </details>
 

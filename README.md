@@ -15,7 +15,6 @@
 
 <a href="https://www.linkedin.com/in/samy-basso-bert-772177176/"><img align="left" alt="/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a>
 <a href="https://www.instagram.com/samybss_/"><img align="left" alt="/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<a href="/"><img align="left" alt="/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 <a href="mailto:bassobertsamy@gmail.com"><img align="left" alt="/" width="22px"  src="https://img.icons8.com/ios-filled/50/000000/new-post.png"/>
 <br />
 

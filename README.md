@@ -1,5 +1,5 @@
 ### Hi there, I'm Samy Basso-Bert🚀! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img  src="https://img.shields.io/badge/-Epitech-blue" /> <img  src="https://img.shields.io/badge/-Montpellier-orange" />
+<img  src="https://img.shields.io/badge/-Epitech-blue?style=for-the-badge" /> <img  src="https://img.shields.io/badge/-Montpellier-orange?style=for-the-badge" />
 <br/>
 
 ## About me

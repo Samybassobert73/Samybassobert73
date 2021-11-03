@@ -48,11 +48,14 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  [#1](https://github.com/Samybassobert73/Jobboard-Nodejs-React)Jobboard  
+  #1 <a href="https://github.com/Samybassobert73/Jobboard-Nodejs-React">Jobboard </a>
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  [![Les Stats GitHub de Samy](https://github-readme-stats.vercel.app/api?username=Samybassobert73)](https://github.com/Samybassobert73/github-readme-stats)
+ <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Samybassobert73&show_icons=true&langs_count=8" alt="Samybassobert73 github stats" />
+ <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samybassobert73&show_icons=true&layout=compact" alt="Samybassobert's github stats" />
+ 
+  
 </details>
 

@@ -35,6 +35,10 @@
 <details>
   <summary>:zap: Recent GitHub activities</summary>
   #1 <a href="https://github.com/Samybassobert73/Jobboard-Nodejs-React">Jobboard (React, NodeJs, Express)</a>
+  #2 <a href="https://github.com/Samybassobert73/dashboard">dashboard (React, redux, java, mysql )</a>
+  #3 <a href="https://github.com/Samybassobert73/messenger">messenger clone (React, NodeJs, Express, mongodb socket.io)</a>
+  #4 <a href="https://github.com/Samybassobert73/countofmoney">Crypto Monnaie dashboard (React, Nextjs, Redux, symfony api plateform, my sql, docker-compose)</a>
+  #5 <a href="https://github.com/Samybassobert73/bigTrip">Crypto Monnaie dashboard (React, Nextjs, symfony api plateform, my sql, docker-compose)</a>
 </details>
 
 <details>

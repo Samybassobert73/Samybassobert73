@@ -38,7 +38,7 @@
   <li> #1 <a href="https://github.com/Samybassobert73/Jobboard-Nodejs-React">Jobboard (React, NodeJs, Express)</a></li>
   <li> #2 <a href="https://github.com/Samybassobert73/dashboard">dashboard (React, redux, java, mysql )</a></li>
   <li> #3 <a href="https://github.com/Samybassobert73/messenger">messenger clone (React, NodeJs, Express, mongodb socket.io)</a></li>
-  <li> #4 <a href="https://github.com/Samybassobert73/countofmoney">Crypto Monnaie dashboard (React, Nextjs, Redux, symfony api plateform, my sql, docker-compose)</a></li>
+  <li> #4 <a href="https://github.com/Samybassobert73/Count-of-money">Crypto Monnaie dashboard (React, Nextjs, Redux, symfony api plateform, my sql, docker-compose)</a></li>
     <li> #5 <a href="https://github.com/Samybassobert73/bigTrip">Crypto Monnaie dashboard (React, Nextjs, symfony api plateform, my sql, docker-compose)</a></li>
    </ul> 
   </details>

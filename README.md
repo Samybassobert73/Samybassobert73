@@ -36,7 +36,7 @@
   <summary>:zap: Recent GitHub activities</summary>
    <ul>
   <li> #4 <a href="https://github.com/Samybassobert73/Count-of-money">Crypto Monnaie dashboard (React, Nextjs, Redux, symfony api plateform, my sql, docker-compose)</a></li>
-    <li> #5 <a href="https://github.com/Samybassobert73/bigTrip">Crypto Monnaie dashboard (React, Nextjs, symfony api plateform, my sql, docker-compose)</a></li>
+    <li> #5 <a href="https://github.com/Samybassobert73/bigTrip">BigTrip travel planner (React, Nextjs, symfony api plateform, my sql, docker-compose)</a></li>
    </ul> 
   </details>
 

@@ -38,6 +38,8 @@
 <img align="left" width="26px" alt="bootstrap" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
 <img align="left" width="29px" alt="php" src="https://www.vectorlogo.zone/logos/php/php-icon.svg">
 <img align="left" width="26px" alt="meterialize" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg">
+ <img align="left" width="26px" alt="nextjs" src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.raycast.com%2FPrasadChinwal%2Fnextjs-docs&psig=AOvVaw3xoiPbA-FjXHLRN6-tDhmO&ust=1681890433958000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLCk4qD4sv4CFQAAAAAdAAAAABAI
+">
 
 <br />
 

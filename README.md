@@ -4,11 +4,11 @@
 
 ## About me
 
-- 🌱 I am a 20 young student at EPITECH school in Montpellier
+- 🌱 I am a 22 young student at EPITECH school in Montpellier
 - 💻 I Enjoy developping and designing website 
-- ⚡ Passionate, I started to develop a year ago
+- ⚡ Passionate, I started to develop 2 year ago
 - 🔍 I like to discover new things/technologies/tricks grinning.
-- ⚽ My goal for 2020 is to contribute more to website projects.
+- ⚽ My goal for 2023 is to contribute more to website projects.
 
 
 ## Connect with me:

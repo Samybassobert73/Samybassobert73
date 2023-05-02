@@ -24,7 +24,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,jquery,react,nextjs,vue,threejs,blender,nodejs,express,php,symfony,wordpress,py,mysql,postgres,mongodb,git,docker,kubernetes,ansible,linux)](https://skillicons.dev)
  
  
- [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
  
 
  

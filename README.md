@@ -20,13 +20,10 @@ I build products at the intersection of **engineering, automation, and growth**.
 ## Connect with me
 
 <a href="https://www.linkedin.com/in/samy-basso-bert-772177176/">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/samybss_/">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/samy-basso-bert-772177176/)
 </a>
 <a href="mailto:bassobertsamypro@gmail.com">
-  <img align="left" width="22px" src="https://img.icons8.com/ios-filled/50/000000/new-post.png"/>
+  <img align="left" width="22px" src="https://img.icons8.com/ios-filled/50/000000/new-post.png"/>(bassobertsamypro@gmail.com)
 </a>
 
 <br /><br />

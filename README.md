@@ -43,7 +43,7 @@ I build products at the intersection of <b>engineering, automation, and growth</
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,vue,nodejs,express,php,symfony,wordpress,py,mysql,postgres,mongodb,git,docker,kubernetes,linux" />
+  <img src="https://skillicons.dev/icons?i=tailwind,js,ts,react,nextjs,vue,nodejs,express,nestjs,php,symfony,wordpress,py,mysql,postgres,mongodb,git,docker,kubernetes,linux,redis,kafka,jest,redux,aws,cloudflare" />
 </p>
 
 ---

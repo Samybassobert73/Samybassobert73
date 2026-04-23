@@ -1,82 +1,95 @@
-### Hi, I'm Samy Basso-Bert 🚀 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi, I'm Samy Basso-Bert 🚀</h1>
 
-<img src="https://img.shields.io/badge/-Epitech-blue?style=for-the-badge" /> 
-<img src="https://img.shields.io/badge/-France-orange?style=for-the-badge" />
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Epitech-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/France-orange?style=for-the-badge" />
+</p>
 
-## About me
+---
 
-I build products at the intersection of **engineering, automation, and growth**.
+<h3 align="center">
+I build products at the intersection of <b>engineering, automation, and growth</b>.
+</h3>
+
+---
+
+## 🧠 About me
 
 - 💻 Full-stack developer (TypeScript, React, Node.js)
-- ⚡ I design and ship scalable web products and automation systems
-- 🧠 Strong interest in **Growth, Go-To-Market, and AI-driven tools**
-- 🔍 Always exploring new technologies, frameworks, and unconventional ideas
-- 🎯 2026 Goal: Contribute to impactful products and scale real-world systems
+- ⚡ I design and ship scalable web products & automation systems
+- 🧠 Passionate about **Growth, Go-To-Market & AI tools**
+- 🔍 Always exploring new technologies & unconventional ideas
+- 🎯 2026 Goal: Build impactful products used by real users
 
 ---
 
-## Connect with me
+## 🤝 Connect with me
 
-<a href="https://www.linkedin.com/in/samy-basso-bert-772177176/">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />Samy basso-bert
-</a>
-<a href="mailto:bassobertsamypro@gmail.com">
-  <img align="left" width="22px" src="https://img.icons8.com/ios-filled/50/000000/new-post.png"/>bassobertsamypro@gmail.com
-</a>
-
-<br /><br />
+<p align="center">
+  <a href="https://www.linkedin.com/in/samy-basso-bert-772177176/">
+    <img src="https://img.shields.io/badge/LinkedIn-Samy%20Basso--Bert-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:bassobertsamypro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-black?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-## Tech Stack
+## ⚙️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,vue,nodejs,express,php,symfony,wordpress,py,mysql,postgres,mongodb,git,docker,kubernetes,linux)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,vue,nodejs,express,php,symfony,wordpress,py,mysql,postgres,mongodb,git,docker,kubernetes,linux" />
+</p>
 
 ---
 
 ## 🚀 Projects
 
 <details>
-  <summary>Recent work</summary>
-   <ul>
+  <summary><b>Recent work</b></summary>
+
+  <br/>
+
+  <ul>
     <li>
       <a href="https://github.com/Samybassobert73/alertevie">
-        Alerte VIE — Real-time job monitoring system using Cloudflare Workers & KV. Tracks and alerts on new VIE opportunities automatically.
-      </a>
+        <b>Alerte VIE</b>
+      </a> — Real-time job monitoring system using Cloudflare Workers & KV. Tracks and alerts on new VIE opportunities automatically.
     </li>
     <li>
       <a href="https://github.com/Samybassobert73/newsletterRag">
-        AI Newsletter Generator — End-to-end pipeline that scrapes Google News and generates ready-to-send newsletters using LangChain and Firecrawl.
-      </a>
+        <b>AI Newsletter Generator</b>
+      </a> — End-to-end pipeline that scrapes Google News and generates ready-to-send newsletters using LangChain and Firecrawl.
     </li>
     <li>
       <a href="https://github.com/Samybassobert73/finetuningFlux1.1">
-        AI Image Generator — Experimentation tool using Flux 1.1 API to generate and fine-tune high-quality images.
-      </a>
+        <b>AI Image Generator</b>
+      </a> — Experimentation tool using Flux 1.1 API to generate and fine-tune high-quality images.
     </li>
     <li>
       <a href="https://github.com/Samybassobert73/Gotham">
-        Gotham — AI image generation SaaS built with React (Vite) and NestJS in a Turborepo monorepo setup.
-      </a>
+        <b>Gotham</b>
+      </a> — AI image generation SaaS built with React (Vite) and NestJS in a Turborepo monorepo setup.
     </li>
     <li>
       <a href="https://github.com/Samybassobert73/ecommerce">
-        Scalable E-commerce Platform — Microservices architecture (REST & GraphQL) powered by Kafka, Docker, and TDD in an Nx monorepo.
-      </a>
+        <b>Scalable E-commerce Platform</b>
+      </a> — Microservices architecture (REST & GraphQL) powered by Kafka, Docker, and TDD in an Nx monorepo.
     </li>
-   </ul> 
+  </ul>
+
 </details>
 
 ---
 
 ## 📊 GitHub Stats
 
-<details>
-  <summary>Stats</summary>
-
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Samybassobert73&show_icons=true&langs_count=8" />
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Samybassobert73&show_icons=true" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samybassobert73&layout=compact" />
-
-</details>
+</p>

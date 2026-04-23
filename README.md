@@ -4,18 +4,18 @@
 
 ## About me
 
-- 🌱 I am a 22 young student at EPITECH school in Montpellier
+- 🌱 I am a 25 years old developper
 - 💻 I Enjoy developping and designing website 
-- ⚡ Passionate, I started to develop 2 year ago
+- ⚡ Passionate, I started to develop 5 year ago
 - 🔍 I like to discover new things/technologies/tricks grinning.
-- ⚽ My goal for 2023 is to contribute more to website projects.
+- ⚽ My goal for 2026 is to contribute more to website projects.
 
 
 ## Connect with me:
 
 <a href="https://www.linkedin.com/in/samy-basso-bert-772177176/"><img align="left" alt="/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a>
 <a href="https://www.instagram.com/samybss_/"><img align="left" alt="/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /><a>
-<a href="mailto:bassobertsamy@gmail.com"><img align="left" alt="/" width="22px"  src="https://img.icons8.com/ios-filled/50/000000/new-post.png"/><a>
+<a href="mailto:bassobertsamypro@gmail.com"><img align="left" alt="/" width="22px"  src="https://img.icons8.com/ios-filled/50/000000/new-post.png"/><a>
 <br />
 
  

@@ -44,37 +44,31 @@ I build products at the intersection of **engineering, automation, and growth**.
 <details>
   <summary>Recent work</summary>
    <ul>
-
     <li>
       <a href="https://github.com/Samybassobert73/alertevie">
         Alerte VIE — Real-time job monitoring system using Cloudflare Workers & KV. Tracks and alerts on new VIE opportunities automatically.
       </a>
     </li>
-
     <li>
       <a href="https://github.com/Samybassobert73/newsletterRag">
         AI Newsletter Generator — End-to-end pipeline that scrapes Google News and generates ready-to-send newsletters using LangChain and Firecrawl.
       </a>
     </li>
-
     <li>
       <a href="https://github.com/Samybassobert73/finetuningFlux1.1">
         AI Image Generator — Experimentation tool using Flux 1.1 API to generate and fine-tune high-quality images.
       </a>
     </li>
-
     <li>
       <a href="https://github.com/Samybassobert73/Gotham">
         Gotham — AI image generation SaaS built with React (Vite) and NestJS in a Turborepo monorepo setup.
       </a>
     </li>
-
     <li>
       <a href="https://github.com/Samybassobert73/ecommerce">
         Scalable E-commerce Platform — Microservices architecture (REST & GraphQL) powered by Kafka, Docker, and TDD in an Nx monorepo.
       </a>
     </li>
-
    </ul> 
 </details>
 
